@@ -4,8 +4,16 @@
 *.iws
 .idea/
 
+# Eclipse
+.settings/
+.project
+.classpath
+
 # Java
 *.class
+
+# Maven
+target/
 
 # Package Files #
 *.jar
